@@ -1,5 +1,11 @@
-# 💫 About Me:
-Hi, I’m a passionate Computer Science student with a strong interest in building real-world, impactful software solutions. I enjoy working on projects that combine problem-solving, data, and modern technologies, and I’m always eager to learn, experiment, and improve my skills through hands-on development.<br>🔭 I’m currently working on machine learning and computer vision projects, including real-world applications like pothole detection and image classification.<br>👯 I’m looking to collaborate on open-source projects, AI/ML applications, and full-stack development ideas.<br>🤝 I’m looking for help with deploying scalable ML models and optimizing performance for production systems.<br>🌱 I’m currently learning advanced deep learning, backend development, and system design concepts.<br>💬 Ask me about Python, machine learning, computer vision, Kaggle projects, and project deployment.<br>⚡ Fun fact: I enjoy turning academic concepts into practical projects that can be used in real life.<br>
+Hi, I'm a Computer Science undergraduate specializing in AI and ML. The main motto of my studies is to build useful, real-world systems. I have hands-on experience in full-stack AI and ML project development and have built a strong foundation in core computer science subjects like DSA, OOP, DBMS, and Operating Systems.
+
+I have developed multiple machine learning and computer vision projects, such as handwritten digit recognition, plant disease classification, and AI-powered applications for solving real-world problems.
+I am open to collaboration on AI/ML projects, research-oriented applications, and open-source efforts to create scalable and impactful systems.
+I'd be interested in learning more about how to deploy ML models at scale, improve inference efficiency, and integrate AI systems into production environments.
+I am continuing to strengthen my advanced deep learning skills, including backend development, cloud-based ML deployment, and system design concepts.
+Got any questions about Python, machine learning, computer vision, TensorFlow, Streamlit, NLP pipelines, Kaggle projects and AI project development?
+⚡ Fun fact: I like to take academic concepts of AI and convert them into complete, working systems for solving practical problems.
 
 
 ## 🌐 Socials:
