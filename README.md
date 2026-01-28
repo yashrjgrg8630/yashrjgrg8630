@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="coding.gif" width="280" />
+</p>
+
 👋 Hi there!
 
 I build projects, debug at 2 AM, and occasionally question my life choices.  
